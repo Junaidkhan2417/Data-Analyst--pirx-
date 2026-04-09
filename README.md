@@ -1,2 +1,10 @@
-# Data-Analyst--pirx-
-This project demonstrates practical skills in SQL, Excel, and Python by solving real-world business problems using structured datasets from Hotel Management and Clinic Management systems.
+# Data Analyst Assignment
+
+## Contents
+- SQL Queries
+- Python Scripts
+- Spreadsheet Placeholder
+
+## Notes
+- Billing = quantity * rate
+- Year considered: 2021
